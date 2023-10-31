@@ -21,7 +21,9 @@
                 <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.ejemplo.MiApp</mainClass>
+                        <addClasspath>true</addClasspath>
+                        <classpathPrefix>lib/</classpathPrefix>
+                        <mainClass>com.example.MiApp</mainClass> 
                     </manifest>
                 </archive>
                     <source>1.8</source>
