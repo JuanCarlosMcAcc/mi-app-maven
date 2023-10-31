@@ -19,6 +19,11 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
+                <archive>
+                    <manifest>
+                        <mainClass>com.ejemplo.miapp.MainClass</mainClass>
+                    </manifest>
+                </archive>
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
