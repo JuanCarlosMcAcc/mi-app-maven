@@ -21,7 +21,7 @@
                 <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.ejemplo.miapp.MainClass</mainClass>
+                        <mainClass>com.ejemplo.MiApp</mainClass>
                     </manifest>
                 </archive>
                     <source>1.8</source>
