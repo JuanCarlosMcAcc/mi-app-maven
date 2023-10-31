@@ -23,7 +23,7 @@
                     <manifest>
                         <addClasspath>true</addClasspath>
                         <classpathPrefix>lib/</classpathPrefix>
-                        <mainClass>com.example.MiApp</mainClass> 
+                        <mainClass>com.ejemplo.MiApp</mainClass> 
                     </manifest>
                 </archive>
                     <source>1.8</source>
